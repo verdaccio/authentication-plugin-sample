@@ -1,0 +1,13 @@
+.editorconfig
+.gitignore
+.idea/
+.flowconfig
+flow-typed/
+.eslintrc
+.babelrc
+test/
+.eslintignore
+.eslintrc.yml
+.npmignore
+*.md
+coverage/
